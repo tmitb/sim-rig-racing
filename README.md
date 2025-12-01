@@ -17,7 +17,7 @@ This is a repository for tracking progresses and history about all things `Racin
 ### Computer Hardware
 - AMD Ryzen 7 5800X3D
 - Asus TUF RTX 5090
-- 32GB memory
+- 128GB memory DDR4 3200Mhz
 - Logitech K400 Wireless keyboard+touchpad
 - 4 Channels of 25W bass shakers driven by two small Class D amps
 
@@ -28,6 +28,9 @@ This is a repository for tracking progresses and history about all things `Racin
 Unless specified otherwise, All 3D models are CC BY-SA 4.0, and software portion is MIT License.
 
 # History Log
+## Foot rest/Riser added (2024-11-30)
+
 ## Repo is born (2024-11-26)
 The repo is born this day with something inside for the first time. I am in process of collecting some data for the current sim setup, which is quite meassy to say the least.
+
 
