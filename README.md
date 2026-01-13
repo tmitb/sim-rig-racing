@@ -22,12 +22,12 @@ This is a repository for tracking progresses and history about all things `Racin
 - 4 Channels of 25W bass shakers driven by two small Class D amps (only three channels are used for now)
 
 ### Frame
-- (Custom built wooden frame)[https://github.com/tmitb/sim-rig-racing/tree/main/wooden-frame#readme]
+- [Custom built wooden frame](https://github.com/tmitb/sim-rig-racing/tree/main/wooden-frame#readme)
 
 ### Noteworthy accessories
-- Ventilated seat pad (Aliexpress link)[https://www.aliexpress.com/item/1005007196227825.html?spm=a2g0o.order_list.order_list_main.5.4b971802pqZyDx]
+- Ventilated seat pad [Aliexpress link](https://www.aliexpress.com/item/1005007196227825.html?spm=a2g0o.order_list.order_list_main.5.4b971802pqZyDx)
   - I absolutely love it.
-  - If it gets too hot and you sweat seating in too long for a session, this is a great accessory to get under $50.
+  - If it gets too hot and you sweat sitting in too long for a session, this is a great accessory to get under $50.
   - You need to get 12v DC adapter from somewhere. I had one laying around in my DC adaptor pile, but you may need to get one. It requires 2A at 12v.
   - It is a bit noisy, so if you want to speak with an open mic, probably not a good option.
 
