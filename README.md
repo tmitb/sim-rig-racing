@@ -11,8 +11,8 @@ This is a repository for tracking progresses and history about all things `Racin
 - Cheap Chineses Hall sensor Handbrake
 
 ### Display
-- Meta Quest 3S 128
-- Acer 14.3" Portable monitor
+- TCL 55" QM6K x3 @ 1440p, 120hz
+- LG 32GK650F @ 1440p, 60hz
 
 ### Computer Hardware
 - AMD Ryzen 7 5800X3D
@@ -22,15 +22,17 @@ This is a repository for tracking progresses and history about all things `Racin
 - 4 Channels of 25W bass shakers driven by two small Class D amps
 
 ### Frame
-- A cheap random one from Amazon
+- Custom built wooden frame
 
 # License
 Unless specified otherwise, All 3D models are CC BY-SA 4.0, and software portion is MIT License.
 
 # History Log
-## Foot rest/Riser added (2024-11-30)
+## Setup updated (2026-1-13)
 
-## Repo is born (2024-11-26)
+## Foot rest/Riser added (2025-11-30)
+
+## Repo is born (2025-11-26)
 The repo is born this day with something inside for the first time. I am in process of collecting some data for the current sim setup, which is quite meassy to say the least.
 
 
