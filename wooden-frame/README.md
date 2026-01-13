@@ -1,5 +1,5 @@
 # Wooden frame
-I am planning to design and build a custom wooden frame for my racing sim rig. This is a place holder for the project. The content of it will evolve overtime as I make progress.
+I have implemented two phases of the rig build. There is bits of build logs for each phase below.
 
 ## Requirements
 - Triple screen setup
